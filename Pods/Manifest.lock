@@ -1,0 +1,78 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (5.2.2)
+  - CountryPickerView (3.1.3)
+  - DropDown (2.3.13)
+  - InputViews (1.0.9):
+    - InputViews/AccessoryView (= 1.0.9)
+    - InputViews/CollectionInputView (= 1.0.9)
+    - InputViews/ColorPickerView (= 1.0.9)
+    - InputViews/DatePickerInputView (= 1.0.9)
+    - InputViews/NoCutPasteField (= 1.0.9)
+    - InputViews/PickerInputView (= 1.0.9)
+    - InputViews/TableInputView (= 1.0.9)
+  - InputViews/AccessoryView (1.0.9)
+  - InputViews/CollectionInputView (1.0.9):
+    - InputViews/CollectionInputView/PickFontAwesomeIconView (= 1.0.9)
+  - InputViews/CollectionInputView/PickFontAwesomeIconView (1.0.9)
+  - InputViews/ColorPickerView (1.0.9)
+  - InputViews/DatePickerInputView (1.0.9)
+  - InputViews/NoCutPasteField (1.0.9)
+  - InputViews/PickerInputView (1.0.9)
+  - InputViews/TableInputView (1.0.9)
+  - IQKeyboardManagerSwift (6.5.6)
+  - OTPInputView (0.1.2)
+  - PinCodeTextField (0.1.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - ShimmerSwift (2.1.1)
+  - SVProgressHUD (2.2.5)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire (~> 5.2.2)
+  - CountryPickerView
+  - DropDown
+  - InputViews
+  - IQKeyboardManagerSwift
+  - OTPInputView
+  - PinCodeTextField
+  - SDWebImage
+  - ShimmerSwift
+  - SVProgressHUD
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Alamofire
+    - CountryPickerView
+    - DropDown
+    - InputViews
+    - IQKeyboardManagerSwift
+    - OTPInputView
+    - PinCodeTextField
+    - SDWebImage
+    - ShimmerSwift
+    - SVProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CountryPickerView: 383c09949f7455de9892db7ce3400b10da090150
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  InputViews: 7adbec5838ec74dbea53efde559cb1f98afcb4d1
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  OTPInputView: 8a7cc613e29d264f799d121169d00a745cae4c00
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 1fa65d63482d76a62a524f0affd0e171e95951ef
+
+COCOAPODS: 1.11.2
