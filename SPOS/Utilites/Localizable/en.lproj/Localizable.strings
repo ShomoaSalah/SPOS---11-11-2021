@@ -1,0 +1,167 @@
+/* 
+  Localizable.strings
+  AqarAfterDeletetion
+
+  Created by شموع صلاح الدين on 8/29/21.
+  
+*/
+
+"isValidNumber" = "The number must be between 8 and 10 digits";
+
+"EnableLocation" = "Please enable Location Services from your Settings, to set Propety Location";
+"TitleEnableLocation" = "Location Disabled";
+
+
+"CommentingNotAllowed" = "Commenting is not allowed";
+
+"Visitor" = "Visitor";
+"show" = "show";
+"hide" = "hide";
+"New" = "New";
+
+"isValidMobileNumber" = "The mobile number must be between 8 and 10 digits";
+"isValidWhatsappNumber" = "The Whatsapp number must be between 8 and 10 digits";
+
+
+"Filter" = "Filter";
+"countrySelected" = "Country Selected Required";
+
+"Search" = "Search";
+
+"NearYou" = "Near you";
+"aqarAbourEN" = "Aqar Bio in English";
+"aqarAbourAR" = "Aqar Bio in Arabic";
+"ReviewRating" = "Review & Rating";
+"OwnerProfile" = "Personal Profile";
+
+"Dirham" = "QAR";
+"AqarLocation" = "Aqar Location Required";
+
+"RecentAdded" = "Recent Added";
+
+"CommentRequired" = "Comment Required";
+
+"ratingRequired" = "Rating Required";
+"locationRequired" = "You must select location";
+
+"YouMustLogin" = "You Must Login";
+
+"AddAqar" = "Add New Aqar";
+"review" = "review";
+"QAR" = "QAR";
+
+"CountryCityListVC" = "Country City List";
+
+"ownerNameRequired" = "Owner Name Required";
+
+"validOwnerName" = "You must type valid Owner Name";
+
+"validCountOwnerName" = "Owner Name must be more than 3 characters";
+
+"aqarNameARRequired" = "Aqar Arabic Name Required";
+
+"validaqarNameTFAR" = "Aqar Arabic Name Required";
+
+"validCountaqarNameTFAR" = "Aqar Arabic Name must be at least 3 digits";
+
+"aqarNameENRequired" = "Aqar English Name Required";
+
+"validaqarNameTFEN" = "Aqar English Name Required";
+
+"validCountaqarNameTFEN" = "Aqar English Name must be at least 3 digits";
+
+
+"aqarSelectedIDRequired" = "Aqar Selected ID Required";
+
+"priceRequired" = "Price Required";
+"validCountpriceTF" = "The price must be at least 3 digits";
+
+"serviceSelectedIDRequired" = "service Selected Required";
+
+"featuresSelectedIDRequired" = "features Selected Required";
+
+
+"aqarAbourENRequired" = "aqar english Bio Required";
+
+"aqarAbourARRequired" = "aqar arabic Bio Required";
+
+"aqar360ImageRequired" = "Aqar 360 Image Required";
+
+"imagesArrayRequired" = "Images Array Required";
+
+"aqarMainImageRequired" = "Aqar Main Image Required";
+
+"phoneWhatsappNumber" = "phone Whatsapp Number Required";
+
+
+"Notifications" = "Notifications";
+
+"AqarDetails" = "Aqar Details";
+
+"Aqaraty" = "My Property";
+"DeleteAqarSuccessfully" = "Delete Aqar Successfully";
+
+"UpdateAqar" = "Update Aqar";
+"countrySelected" = "country Selected Required";
+
+"CountryCityListVC" = "Country City List";
+
+"UpdateSuccessfully" = "Update Successfully";
+
+"Favorite" = "Favorite";
+
+"LogOut" = "LogOut";
+
+"LogIn" = "LogIn";
+
+"AboutApp" = "About App";
+
+"ContactUS" = "Contact US";
+
+
+"phoneNumber" = "phone Number Required";
+
+"name" = "name";
+
+"message" = "message";
+
+"SendSuccessfully" = "Send Successfully";
+
+"TermsCondition" = "Terms & Condition";
+"Profile" = "Profile";
+"EditProfile" = "Edit Profile";
+
+"About" = "About";
+"selectPhoto" = "select Photo";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"countrySelected" = "country Selected required";
+"updateProfileSuccessfully" = "update Profile Successfully";
+"ForgetPassword" = "Forget Password";
+"currentPass" = "Current Password";
+"newPass" = "New Password";
+"RecentAdded" = "Recent Added";
+"password" = "password";
+
+
+"VerificationCode" = "Verification Code";
+
+"codeSent" = "Code Sent Successfully";
+"SetNewPassword" = "Set New Password";
+
+
+"passwordConfirmation" = "Password Confirmation";
+"passwordNotMatch" = "Two password Not Match";
+"countrySelected" = "country Selected required";
+"CountryCityListVC" = "Country City List";
+
+"selectedCountryUUID" = "selected CountryUUID required";
+"selectedCityUUID" = "selected cityUUID required";
+"Country" = "Country";
+"City" = "City";
+"noInternet" = "No Internet";
+"report" = "Report";
+"reportTVRequired" = "Report Required";
+
+"sendReviewSuccessffully" = "Report Send Successfully";
+"SeachNotFound" = "No Search Results";

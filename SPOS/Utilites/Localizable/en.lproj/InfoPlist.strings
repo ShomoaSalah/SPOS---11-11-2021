@@ -1,0 +1,9 @@
+
+"CFBundleDisplayName" = "SPOS";
+
+"CFBundleName" = "SPOS";
+"NSCameraUsageDescription" = "App would like to access your camera  for take photo for app";
+"NSPhotoLibraryUsageDescription" = "App would like to access your photo album  for choose and upload photo for your gallery in The app";
+
+
+"NSLocationWhenInUseUsageDescription" = "We need to know your location to find properties near you";

@@ -1,0 +1,172 @@
+/*
+  Localizable.strings
+  AqarAfterDeletetion
+
+  Created by شموع صلاح الدين on 8/29/21.
+  
+*/
+
+"isValidNumber" = "يجب ان يتراوح الرقم ما بين 8 خانات و 10 خانات";
+
+"TitleEnableLocation" = "لا يمكن تحديد الموقع";
+"EnableLocation" = "يرجى تفعيل خاصية تحديد المواقع من الاعدادات، لاختيار موقع العقار";
+
+
+"CommentingNotAllowed" = "غير مسموح التعليق";
+"TitleEnableLocation" = "لا يمكن تحديد الموقع";
+
+"Visitor" = "زائر";
+"show" = "عرض";
+"hide" = "اخفاء";
+"New" = "جديد";
+"isValidMobileNumber" = "يجب ان يتراوح رقم الموبايل ما بين 8 خانات و 10 خانات";
+"isValidWhatsappNumber" = "يجب ان يتراوح رقم الواتساب ما بين 8 خانات و 10 خانات";
+
+"Filter" = "فلتر";
+"countrySelected" = "البلد المحدد مطلوب";
+"Search" = "البحث";
+"AqarLocation" = "موقع عقار مطلوب";
+"RecentAdded" = "اضيف حديثا";
+"NearYou" = "بالقرب منك";
+"aqarAbourEN" = "نبذة عن العقار باللغة الانجليزية";
+"aqarAbourAR" = "نبذة عن العقار باللغة العربية";
+"ReviewRating" = "التقييمات والتعليقات";
+"OwnerProfile" = "الملف الشخصى";
+"CommentRequired" = "التعليق مطلوب";
+
+"review" = "تقييم";
+
+"ratingRequired" = "التقييم مطلوب";
+
+"YouMustLogin" = "يجب عليك تسجيل الدخول";
+
+"Dirham" = "ريال قطري";
+
+"QAR" = "ريال قطري";
+
+"CountryCityListVC" = "قائمة مدينة البلد";
+
+"ownerNameRequired" = "اسم المالك مطلوب";
+
+"validOwnerName" = "يجب عليك كتابة اسم مالك صالح";
+"locationRequired" = "يجب اختيار مكان العقار";
+
+
+"validCountOwnerName" = "يجب ان يكون اسم المالك اكتر من 3 حروف";
+
+"aqarNameARRequired" = "مطلوب اسم عقار بالعربية";
+
+"AddAqar" = "اضافة عقار جديد";
+
+
+
+"validaqarNameTFAR" = "مطلوب اسم عقار بالعربية";
+
+"validCountaqarNameTFAR" = "مطلوب اسم عقار بالعربية";
+
+"aqarNameENRequired" = "مطلوب اسم عقار باللغة الإنجليزية";
+
+"validaqarNameTFEN" = "مطلوب اسم عقار باللغة الإنجليزية";
+
+"validCountaqarNameTFEN" = "مطلوب اسم عقار باللغة الإنجليزية";
+
+
+"aqarSelectedIDRequired" = "معرف عقار المحدد مطلوب";
+
+"priceRequired" = "السعر مطلوب";
+"validCountpriceTF" = "يجب ان يكون السعر من 3 خانات على الاقل";
+
+
+"serviceSelectedIDRequired" = "نوع الخدمة مطلوب";
+
+"featuresSelectedIDRequired" = "الميزات المحددة مطلوبة";
+
+
+"aqarAbourENRequired" = "النبذة التعريفية مطلوبة باللغة الانجليزية";
+
+"aqarAbourARRequired" = "النبذة التعريفية مطلوبة باللغة العربية";
+
+"aqar360ImageRequired" = "مطلوب صورة 360 درجة";
+
+"imagesArrayRequired" = "مطلوب مجموعة الصور الفرعية";
+
+"aqarMainImageRequired" = "مطلوب صورة رئيسية للعقار";
+
+"phoneWhatsappNumber" = "رقم Whatsapp للهاتف مطلوب";
+
+
+"Notifications" = "الاشعارات";
+
+"AqarDetails" = "تفاصيل العقار";
+
+"Aqaraty" = "عقاراتي";
+"DeleteAqarSuccessfully" = "تم حذف العقار بنجاح";
+
+"UpdateAqar" = "تحديث العقار";
+"countrySelected" = "البلد المحدد مطلوب";
+
+"CountryCityListVC" = "قائمة مدينة البلد";
+
+"UpdateSuccessfully" = "تم التحديث بنجاح";
+
+"Favorite" = "المفضلة";
+
+"LogOut" = "تسجيل الخروج";
+
+"LogIn" = "تسجيل الدخول";
+
+"AboutApp" = "عن التطبيق";
+
+"ContactUS" = "اتصل بنا";
+
+
+"phoneNumber" = "رقم الهاتف مطلوب";
+
+"name" = "الاسم";
+
+"message" = "الرسالة";
+
+"SendSuccessfully" = "تم الارسال بنجاح";
+
+"TermsCondition" = "الشروط والاحكام";
+"Profile" = "الملف الشخصي";
+"EditProfile" = "تحديث الملف الشخصي";
+
+"About" = "عن";
+"selectPhoto" = "اختر صورة";
+"OK" = "اجل";
+"Cancel" = "الغاء";
+
+
+"countrySelected" = "البلد المحدد مطلوب";
+"updateProfileSuccessfully" = "تحديث الملف الشخصي بنجاح";
+"ForgetPassword" = "نسيت كلمة المرور";
+"currentPass" = "كلمة المرور الحالية";
+"newPass" = "كلمة المرور الجديدة";
+"RecentAdded" = "اضيف حديثا";
+"password" = "كلمة المرور";
+
+
+"VerificationCode" = "رمز التحقق";
+
+"codeSent" = "تم إرسال الرمز بنجاح";
+"SetNewPassword" = "تعيين كلمة مرور جديدة";
+
+
+"passwordConfirmation" = "تأكيد كلمة المرور";
+"passwordNotMatch" = "كلمتا المرور غير متطابقتان";
+"countrySelected" = "البلد المحدد مطلوب";
+"CountryCityListVC" = "قائمة مدينة البلد";
+
+"selectedCountryUUID" = "البلد المحدد مطلوب";
+"selectedCityUUID" = "المدينة المحددة UUID مطلوبة";
+"Country" = "الدولة";
+"City" = "المدينة";
+"noInternet" = "لا يوجد انترنت";
+
+"report" = "تبليغ";
+"reportTVRequired" = "حقل التبليغ مطلوب";
+"sendReviewSuccessffully" = "تم ارسال التبليغ بنجاح";
+
+
+"SeachNotFound" = "لا يوجد نتائج بحث";

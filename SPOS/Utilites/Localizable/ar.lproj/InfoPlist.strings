@@ -1,0 +1,13 @@
+
+
+"CFBundleDisplayName" = "SPOS";
+
+"CFBundleName" = "SPOS";
+
+"NSCameraUsageDescription" = "يريد التطبيق الوصول إلى الكاميرا لالتقاط الصور";
+
+"NSPhotoLibraryUsageDescription" = "يرغب التطبيق في الوصول إلى ألبوم الصور الخاص بك لاختيار وتحميل صورة لمعرض الصور الخاص بك في التطبيق";
+
+
+
+"NSLocationWhenInUseUsageDescription" = "نحتاج إلى معرفة موقعك للعثور على العقارات القريبة منك";
